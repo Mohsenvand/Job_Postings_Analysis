@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<error>
-  <status>403</status>
-  <timestamp>1362872818697</timestamp>
-  <request-id>SH6SNUU4ZY</request-id>
-  <error-code>0</error-code>
-  <message>Throttle limit for calls to this resource is reached.</message>
-</error>
