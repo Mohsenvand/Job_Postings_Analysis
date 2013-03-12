@@ -16,6 +16,7 @@ class JobPuller:
 		oauthKey = ""
 		oauthSecret = ""
 		for line in keyFileReader:
+			line = line.replace('\n', '')
 			if lineCounter == 1:
 				lineParts = line.split('###')
 				apiKey = lineParts[0]
