@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job-search>
+  <jobs total="326" count="6" start="320">
+    <job>
+      <id>4881824</id>
+      <company>
+        <id>125723</id>
+        <name>Xpertize.be</name>
+      </company>
+      <job-poster>
+        <id>c_IjHbQjs8</id>
+        <first-name>Gregory</first-name>
+        <last-name>C.</last-name>
+        <headline>Partner at Xpertize.be</headline>
+      </job-poster>
+      <description-snippet>Our client is a major player of the Financial Services industry in Belgium. Role: Taking part to a critical and highly exposed strategic reorganization, you will handle the following responsibilities: - Based on the future strategic needs you assess the required organisational capabilities. You bring the ‘outside in' with regards to the Organisational development expertise. This new domain of expe</description-snippet>
+      <location-description>Brussels Area, Belgium</location-description>
+    </job>
+    <job>
+      <id>4626015</id>
+      <company>
+        <id>7026</id>
+        <name>Duff &amp; Phelps</name>
+      </company>
+      <job-poster>
+        <id>5VFLD01hyQ</id>
+        <first-name>Stephanie</first-name>
+        <last-name>J.</last-name>
+        <headline>Experienced Corporate Recruiting Professional</headline>
+      </job-poster>
+      <description-snippet>At Duff &amp;amp; Phelps, we stand for the qualities that power sound decisions. And we believe that behind every good decision, you'll find solid thinking, proven experience and valuable insight. But all the numbers and facts in the world mean nothing without a top team of professionals to make sense of them all. That's where YOU come in - provided you're incisive, entrepreneurial and up for a challe</description-snippet>
+      <location-description>Greater New York City Area</location-description>
+    </job>
+    <job>
+      <id>4855648</id>
+      <company>
+        <id>4075</id>
+        <name>Sun Life Financial</name>
+      </company>
+      <job-poster>
+        <id>714BunB64q</id>
+        <first-name>Todd</first-name>
+        <last-name>N.</last-name>
+        <headline>Attracting and aligning top talent for a dynamic global organization. I love what I do for a living!</headline>
+      </job-poster>
+      <description-snippet>You believe life is about aiming high and making an impact. At Sun Life Financial, we work together, share common values and help each other grow and achieve goals.With roots tracing back to 1865 in Canada, Sun Life Financial has grown to become an established and trusted name in insurance and financial services, with offices and operations in key markets around the world. We recognize that our gr</description-snippet>
+      <location-description>CA-ON-Toronto</location-description>
+    </job>
+    <job>
+      <id>4741526</id>
+      <company>
+        <id>1070686</id>
+        <name>Kavaliro</name>
+      </company>
+      <salary>TBD/Highly Competitive</salary>
+      <job-poster>
+        <id>3TL8DkNOY_</id>
+        <first-name>Bill</first-name>
+        <last-name>P.</last-name>
+        <headline>Managing Partner-Kavaliro, Inc.</headline>
+      </job-poster>
+      <description-snippet>Technical Recruiter     We are looking for a strong results driven Technical recruiter for our branch office in McLean, VA. Candidate must have over 4 years of successful high volume technical recruiting experience.  The candidate will be working in our Staff Augmentation Division supporting commercial customers. Must be able to technically evaluate/interview candidates. Candidates with experience</description-snippet>
+      <location-description>Washington D.C. Metro Area</location-description>
+    </job>
+    <job>
+      <id>4852508</id>
+      <company>
+        <id>10243</id>
+        <name>GHD</name>
+      </company>
+      <salary>DOE</salary>
+      <job-poster>
+        <id>zScLKSKHzo</id>
+        <first-name>Nikki</first-name>
+        <last-name>L.</last-name>
+        <headline>Recruiter &amp; People Advisor</headline>
+      </job-poster>
+      <description-snippet>  With more than 6500 people around the globe, GHD is one of the world's leading engineering, architecture and environmental consulting firms. Servicing clients across five continents our people share a passion for successful project delivery and exceptional results. We have an ongoing requirement for high-calibre professionals to join our global network.    GHD is looking for a highly motivated P</description-snippet>
+      <location-description>Irvine</location-description>
+    </job>
+    <job>
+      <id>3936449</id>
+      <company>
+        <id>3163</id>
+        <name>University of Pennsylvania Health System</name>
+      </company>
+      <job-poster>
+        <id>ytfvpWxUi0</id>
+        <first-name>Camille</first-name>
+        <last-name>E.</last-name>
+        <headline>Corporate Recruiter at Penn Medicine, University of Pennsylvania Health System</headline>
+      </job-poster>
+      <description-snippet>Contact Manager  1 PeriOp Extensive knowledge and experience in vendor negotiations, contract development and implementation for purchased equipment, supplies and services.  Demonstrate value analysis, expense reduction and customer service skills within a complex &amp;amp; multi-facility purchasing environment.  May have responsibility for Acute Care and/or Physician Practices. Ability to assume resp</description-snippet>
+      <location-description>Philadelphia, PA</location-description>
+    </job>
+  </jobs>
+  <num-results>326</num-results>
+  <facets total="1">
+    <facet>
+      <code>company</code>
+      <name>Company</name>
+      <buckets total="11">
+        <bucket>
+          <code>3486</code>
+          <name>Hays</name>
+          <count>33</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>34296</code>
+          <name>Carlton Staffing</name>
+          <count>9</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>2105</code>
+          <name>NetApp</name>
+          <count>8</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1073</code>
+          <name>Ernst &amp; Young</name>
+          <count>6</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>11776</code>
+          <name>INC Research</name>
+          <count>6</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>3139</code>
+          <name>Scotiabank</name>
+          <count>5</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>4781</code>
+          <name>Warner Music Group</name>
+          <count>5</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>7026</code>
+          <name>Duff &amp; Phelps</name>
+          <count>5</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>566708</code>
+          <name>The Vesume Group, LLC</name>
+          <count>5</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>3739</code>
+          <name>CH2M HILL</name>
+          <count>4</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>434636</code>
+          <name>Unison International Consulting Pvt. Ltd</name>
+          <count>4</count>
+          <selected>false</selected>
+        </bucket>
+      </buckets>
+    </facet>
+  </facets>
+</job-search>

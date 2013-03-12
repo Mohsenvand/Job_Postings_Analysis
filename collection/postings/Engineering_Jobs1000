@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job-search>
+  <jobs total="1356" count="20" start="1000">
+    <job>
+      <id>4846914</id>
+      <company>
+        <name>Integrity Staffing</name>
+      </company>
+      <job-poster>
+        <id>GD6rXpAh2P</id>
+        <first-name>David</first-name>
+        <last-name>Z.</last-name>
+        <headline>Technologist at Enigma Associates</headline>
+      </job-poster>
+      <description-snippet>City: Coatesville Wages/Salary: $15.00 per hourState: Pennsylvania Job Category: Temp HireDate Posted: 2/11/2013 Job Id: 1355Job DescriptionIntegrity Staffing Solutions is a national leader in matching talented people to some of the nations leading jobs. We offer a variety of openings across the US in the areas most prestigious organizations. We offer excellent benefits after only one week of work</description-snippet>
+      <location-description>US -Pennsylvania- Coatesville</location-description>
+    </job>
+    <job>
+      <id>4844455</id>
+      <company>
+        <name>Akamai Technologies</name>
+      </company>
+      <job-poster>
+        <id>GD6rXpAh2P</id>
+        <first-name>David</first-name>
+        <last-name>Z.</last-name>
+        <headline>Technologist at Enigma Associates</headline>
+      </job-poster>
+      <description-snippet>System Engineer - Summer InternLocation US-MA-CambridgePosted Date 2/6/2013Cost Center 312 Category College/UniversityID 7705About the JobAs an intern in Network Systems, you will develop, enhance, and maintain the tools that allow Akamai to deploy and maintain a huge worldwide network with a small team of people. These tools help automate manual processes, discover network topology, report on pro</description-snippet>
+      <location-description>US -Massachusetts- Cambridge</location-description>
+    </job>
+    <job>
+      <id>4796954</id>
+      <company>
+        <id>566708</id>
+        <name>The Vesume Group, LLC</name>
+      </company>
+      <salary>Negotiable</salary>
+      <job-poster>
+        <id>iIISzU9s9D</id>
+        <first-name>Hank</first-name>
+        <last-name>B.</last-name>
+        <headline>President and CEO at The Vesume Group, LLC</headline>
+      </job-poster>
+      <description-snippet>We have a fantastic direct hire opportunity for a Drupal Developer in the Boston area! Our client is currently looking to hire a Drupal Developer who is responsible for developing, maintaining, and updating their corporate web presence across multiple sites, as well as integration with in-house CRM, payment processing systems, marketing promotions, and third-party web sites and APIS.      If you c</description-snippet>
+      <location-description>Greater Boston Area</location-description>
+    </job>
+    <job>
+      <id>4703215</id>
+      <company>
+        <id>566708</id>
+        <name>The Vesume Group, LLC</name>
+      </company>
+      <salary>Negotiable</salary>
+      <job-poster>
+        <id>iIISzU9s9D</id>
+        <first-name>Hank</first-name>
+        <last-name>B.</last-name>
+        <headline>President and CEO at The Vesume Group, LLC</headline>
+      </job-poster>
+      <description-snippet>Watch the video job description here: http://youtu.be/Pb124q0SHnk     Are you a Software Quality Assurance Engineer looking for a truly unique opportunity? Our client, a well known and rapidly growing company, is currently on the hunt for a contract-to-hire QA Engineer.    In this role, you will be blazing new trails as you utilize your manual and automated testing experience. Because there is no </description-snippet>
+      <location-description>Greater Boston Area</location-description>
+    </job>
+    <job>
+      <id>4641552</id>
+      <company>
+        <id>1035</id>
+        <name>Microsoft</name>
+      </company>
+      <job-poster>
+        <id>qDJUvsJNfE</id>
+        <first-name>Colleen</first-name>
+        <last-name>Canney</last-name>
+        <headline>Staffing Consultant at Microsoft/Career Coach</headline>
+      </job-poster>
+      <description-snippet>Job Category: Software Engineering: TestLocation: Redmond, WA, USJob ID: 823638-101646Division: Windows DivisionA key differentiator in the online world is providing a safe experience for the user. Safety team builds services and intelligence to protect some of the highest value assets for the company from abuse. These include Microsoft Account, Outlook.com, IE, Windows and other Windows Services.</description-snippet>
+      <location-description>Redmond, WA, US</location-description>
+    </job>
+    <job>
+      <id>4641469</id>
+      <company>
+        <id>1038</id>
+        <name>Deloitte</name>
+      </company>
+      <job-poster>
+        <id>GD6rXpAh2P</id>
+        <first-name>David</first-name>
+        <last-name>Z.</last-name>
+        <headline>Technologist at Enigma Associates</headline>
+      </job-poster>
+      <description-snippet>Business Area:  Deloitte AuditDeloitte Audit is currently seeking a Senior Software Engineer for CMS development team of The Deloitte Audit program. The Deloitte Audit (DA) is a global, multi-year audit transformation program that provides a new generation of content, methodology, professional mindset, and technology to equip audit practitioners with the tools and capabilities to perform a truly w</description-snippet>
+      <location-description>Princeton, NJ</location-description>
+    </job>
+    <job>
+      <id>4630450</id>
+      <company>
+        <id>1035</id>
+        <name>Microsoft</name>
+      </company>
+      <job-poster>
+        <id>9HX2yo-7fQ</id>
+        <first-name>Michael</first-name>
+        <last-name>Ashe</last-name>
+        <headline>Technical Recruiter/ Staffing Consultant at Microsoft</headline>
+      </job-poster>
+      <description-snippet>Job Category: Software Engineering: DevelopmentLocation: Redmond, WA, USJob ID: 823026-101593Division: Windows DivisionCome join a passionate team that is making a real difference for accessibility users. The Accessibility team owns a set of core Windows technologies that assists and enables users of all abilities to fully use, enjoy and benefit from Windows. This is a critical area of improvement</description-snippet>
+      <location-description>Redmond, WA, US</location-description>
+    </job>
+    <job>
+      <id>4630432</id>
+      <company>
+        <id>1035</id>
+        <name>Microsoft</name>
+      </company>
+      <job-poster>
+        <id>9HX2yo-7fQ</id>
+        <first-name>Michael</first-name>
+        <last-name>Ashe</last-name>
+        <headline>Technical Recruiter/ Staffing Consultant at Microsoft</headline>
+      </job-poster>
+      <description-snippet>Job Category: Software Engineering: DevelopmentLocation: Redmond, WA, USJob ID: 822365-101594Division: Windows DivisionThe UIP team is responsible for building UI platforms for Windows. Including XAML, WinJS, and other UI technologies, we provide the basic building blocks for building app UI in the Windows 8 app store apps.  Our team owns the graphics, media, and text layers of the XAML stack. Thi</description-snippet>
+      <location-description>Redmond, WA, US</location-description>
+    </job>
+    <job>
+      <id>4620079</id>
+      <company>
+        <id>21836</id>
+        <name>CyberCoders</name>
+      </company>
+      <job-poster>
+        <id>qHDhXj2BHH</id>
+        <first-name>Evan</first-name>
+        <last-name>J.</last-name>
+        <headline>Executive Recruitment | Connecting Talent w/ Opportunity | EvanCC@CyberCoders.com</headline>
+      </job-poster>
+      <description-snippet>Mobile QA Engineer Mobile QA Engineer - Skills Required - Superb testing on Android Apps, QA Engineering on Mobile Platforms, Superb testing on iOS Apps, Create, test and execute on iOS/Android Devices, Agile, Use customer feedback for test improvements, Assist product team in formatting issuesIf you are looking for jobs as a Mobile Quality Assurance (QA) Engineer, please read on!Based in beautifu</description-snippet>
+      <location-description>Redwood City, CA</location-description>
+    </job>
+    <job>
+      <id>4619244</id>
+      <company>
+        <id>2247</id>
+        <name>Johnson Controls</name>
+      </company>
+      <job-poster>
+        <id>2W4a8CTJTB</id>
+        <first-name>Michael</first-name>
+        <last-name>G.</last-name>
+        <headline>Eternally focused on helping you be better. Vocationally focused on connecting top-talent to an innovative machine!</headline>
+      </job-poster>
+      <description-snippet>Johnson Controls is a global diversified technology and industrial leader serving customers in more than 150 countries. Our 162,000 employees create quality products, services and solutions to optimize energy and operational efficiencies of buildings; lead-acid automotive batteries and advanced batteries for hybrid and electric vehicles; and interior systems for automobiles. Our commitment to sust</description-snippet>
+      <location-description>US-TX-Houston</location-description>
+    </job>
+    <job>
+      <id>4593898</id>
+      <company>
+        <id>11776</id>
+        <name>INC Research</name>
+      </company>
+      <job-poster>
+        <id>6KzfJdVl42</id>
+        <first-name>Pecolia</first-name>
+        <last-name>S.</last-name>
+        <headline>Recruiter at INC Research</headline>
+      </job-poster>
+      <description-snippet>Job SummaryAssists senior managers in managing work and teams within a specific or broad area of site start-up, such as site activation, regulatory, submissions, site contracts, or regulatory records. Ensures fulfillment of customer requirements and compliance with related regulations. Analyzes processes and develops strategies to increase efficiency. Performs operational level planning, including</description-snippet>
+      <location-description>Raleigh, NC</location-description>
+    </job>
+    <job>
+      <id>4593118</id>
+      <company>
+        <id>2105</id>
+        <name>NetApp</name>
+      </company>
+      <job-poster>
+        <id>GD6rXpAh2P</id>
+        <first-name>David</first-name>
+        <last-name>Z.</last-name>
+        <headline>Technologist at Enigma Associates</headline>
+      </job-poster>
+      <description-snippet>Job Summary:From the newest ideas in cluster computing to the latest web framework, NetApp software products embrace innovation to deliver compelling solutions to our business.As a Software Engineer you will work as part of a team responsible for participating in the development, testing and debugging of operating systems that run NetApp storage applications. In addition, you will participate in a</description-snippet>
+      <location-description>Sunnyvale, CA</location-description>
+    </job>
+    <job>
+      <id>4412257</id>
+      <company>
+        <id>1035</id>
+        <name>Microsoft</name>
+      </company>
+      <job-poster>
+        <id>9HX2yo-7fQ</id>
+        <first-name>Michael</first-name>
+        <last-name>Ashe</last-name>
+        <headline>Technical Recruiter/ Staffing Consultant at Microsoft</headline>
+      </job-poster>
+      <description-snippet>Job Category: Software Engineering: DevelopmentLocation: Redmond, WA, USJob ID: 817381-99759Division: Windows DivisionWindows 8 provides rich support for various sensors such as accelerometers, gyroscopes, light, compass and also includes support for sensor fusion. System developers can quickly integrate the right sensors to provide rich native as well as application level scenarios via simple Win</description-snippet>
+      <location-description>Redmond, WA, US</location-description>
+    </job>
+    <job>
+      <id>4180338</id>
+      <company>
+        <id>200115</id>
+        <name>Appcelerator</name>
+      </company>
+      <job-poster>
+        <id>OCBR73UzwO</id>
+        <first-name>Joyce</first-name>
+        <last-name>Phillips, SPHR</last-name>
+        <headline>Head of Human Resources at Appcelerator</headline>
+      </job-poster>
+      <description-snippet>We have an immediate opening for a Success Manager (CSM) in our Customer Success organization! Our ideal candidate will be an experienced technology strategist with the ability to define a vision and strategy for the customer and guide them from concept to execution, with experience in mobile and/or web being a critical skill set. The Customer Success Manager is responsible for bringing Appcelerat</description-snippet>
+      <location-description>San Francisco Bay Area</location-description>
+    </job>
+    <job>
+      <id>3313965</id>
+      <company>
+        <id>1035</id>
+        <name>Microsoft</name>
+      </company>
+      <job-poster>
+        <id>PmizV1xaXL</id>
+        <first-name>Tanvi</first-name>
+        <last-name>Shah</last-name>
+        <headline>Hiring developers for Outlook.com team in Mountain View, CA! Contact me for more details.</headline>
+      </job-poster>
+      <description-snippet>Job Category: Software Engineering: TestLocation: Mountain View, CA, USJob ID: 799265-84341Division: Windows DivisionWindows 8 Apps and Services is a collection of software and services which are designed to work together to enable users to communicate, create and share memories, and stay connected in the online world. Windows 8 Apps and Services include services such as email and instant messagin</description-snippet>
+      <location-description>Mountain View, CA, US</location-description>
+    </job>
+    <job>
+      <id>3174964</id>
+      <company>
+        <id>122628</id>
+        <name>Terran Systems</name>
+      </company>
+      <job-poster>
+        <id>J-0xCTChxw</id>
+        <first-name>Patrick</first-name>
+        <last-name>R.</last-name>
+        <headline>CEO/President, Executive Recruiter</headline>
+      </job-poster>
+      <description-snippet>Sr. Unix SysAdmin   We are looking for a Senior Unix Systems Administrator. This candidate should have SaaS experience; be self-motivated, schedule-sensitive, &amp;amp; technically talented to support the 24x7 Service Infrastructure environment.  The successful candidate will provide support for our cloud based applications, Unix based systems, the Service Infrastructure &amp;amp; more.   The ideal candid</description-snippet>
+      <location-description>San Francisco Bay Area</location-description>
+    </job>
+    <job>
+      <id>3174893</id>
+      <company>
+        <id>122628</id>
+        <name>Terran Systems</name>
+      </company>
+      <job-poster>
+        <id>J-0xCTChxw</id>
+        <first-name>Patrick</first-name>
+        <last-name>R.</last-name>
+        <headline>CEO/President, Executive Recruiter</headline>
+      </job-poster>
+      <description-snippet>Requirements Back End:  Ruby on Rails, Ubuntu, Node.js, MySQL, Chef &amp;amp; CoffeeScript. We believe in test-driven development &amp;amp; continuous integration. BSCS/EE Passionate about web application development with experience in JavaScript &amp;amp;/or CSS A belief in agile development strong work ethic / a self-starter complex web applications used by the masses   Front End: Ruby on Rails experience  </description-snippet>
+      <location-description>San Francisco Bay Area</location-description>
+    </job>
+    <job>
+      <id>2855044</id>
+      <company>
+        <id>122628</id>
+        <name>Terran Systems</name>
+      </company>
+      <job-poster>
+        <id>J-0xCTChxw</id>
+        <first-name>Patrick</first-name>
+        <last-name>R.</last-name>
+        <headline>CEO/President, Executive Recruiter</headline>
+      </job-poster>
+      <description-snippet>Modicom is in search of a Mobile Developer - iOS.   Mobile Developer - iOS This Palo Alto client is looking for an excellent developer who is mobile-focused.   Responsibilities: Develop mobile apps w/ a user-experience emphasis Collaborate w/ the Product Mgmt to set strategy/test Optimize product for conversion, performance &amp;amp; usage &amp;amp; manage the analytics platform Tackle cool new concepts &amp;</description-snippet>
+      <location-description>Palo Alto</location-description>
+    </job>
+    <job>
+      <id>5071190</id>
+      <company>
+        <id>3545</id>
+        <name>Red Hat</name>
+      </company>
+      <salary>Salary, Bonus, Stock, Full Package</salary>
+      <job-poster>
+        <id>AJny3xh8sN</id>
+        <first-name>Brian</first-name>
+        <last-name>G.</last-name>
+        <headline>Global Talent Acquisition Manager</headline>
+      </job-poster>
+      <description-snippet>We are seeking software engineers to join the teams working on all aspects of OpenStack, including Quantum (network management), Nova (Compute engine), Swift (storage), Heat (Configuration management). Candidates for this position must be comfortable working across various technologies including Python, Bash, and Java. Additionally, in the spirit of open source, candidates must be comfortable with</description-snippet>
+      <location-description>Virtual/Remote Positions Available</location-description>
+    </job>
+    <job>
+      <id>5071186</id>
+      <company>
+        <id>3545</id>
+        <name>Red Hat</name>
+      </company>
+      <salary>Salary, Bonus, Stock, Full Package</salary>
+      <job-poster>
+        <id>AJny3xh8sN</id>
+        <first-name>Brian</first-name>
+        <last-name>G.</last-name>
+        <headline>Global Talent Acquisition Manager</headline>
+      </job-poster>
+      <description-snippet>We are seeking software engineers to join the teams working on all aspects of OpenStack, including Quantum (network management), Nova (Compute engine), Swift (storage), Heat (Configuration management). Candidates for this position must be comfortable working across various technologies including Python, Bash, and Java. Additionally, in the spirit of open source, candidates must be comfortable with</description-snippet>
+      <location-description>Virtual/Remote Positions Available</location-description>
+    </job>
+  </jobs>
+  <num-results>1356</num-results>
+  <facets total="1">
+    <facet>
+      <code>company</code>
+      <name>Company</name>
+      <buckets total="11">
+        <bucket>
+          <code>3739</code>
+          <name>CH2M HILL</name>
+          <count>135</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>602282</code>
+          <name>Sterling Life Sciences</name>
+          <count>59</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>2105</code>
+          <name>NetApp</name>
+          <count>37</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>454464</code>
+          <name>Ascend Performance Materials</name>
+          <count>33</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>2720839</code>
+          <name>Sandhill Networks</name>
+          <count>32</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1035</code>
+          <name>Microsoft</name>
+          <count>30</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>5218</code>
+          <name>Nalco</name>
+          <count>25</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1384</code>
+          <name>Boeing</name>
+          <count>17</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1666</code>
+          <name>Intuit</name>
+          <count>17</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>165158</code>
+          <name>Netflix</name>
+          <count>14</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>729369</code>
+          <name>MoTek Technologies</name>
+          <count>13</count>
+          <selected>false</selected>
+        </bucket>
+      </buckets>
+    </facet>
+  </facets>
+</job-search>

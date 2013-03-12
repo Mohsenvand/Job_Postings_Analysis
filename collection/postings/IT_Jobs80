@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job-search>
+  <jobs total="3942" count="20" start="80">
+    <job>
+      <id>5034803</id>
+      <company>
+        <id>2269733</id>
+        <name>Hortonworks</name>
+      </company>
+      <job-poster>
+        <id>tmUnJS5FAd</id>
+        <first-name>Erik</first-name>
+        <last-name>Z.</last-name>
+        <headline>Technical Sourcer at Hortonworks</headline>
+      </job-poster>
+      <description-snippet>Professional Services | Sunnyvale, CA, United States   Hortonworks is seeking experienced Systems Architects to join our team.  This key role has two major responsibilities: first to work directly with our customers and partners to optimize their plans and objectives for designing and deploying Apache Hadoop environments, and, secondly, to assist in building or designing reference configurations t</description-snippet>
+      <location-description>Chicago, IL</location-description>
+    </job>
+    <job>
+      <id>5031409</id>
+      <company>
+        <id>3675</id>
+        <name>OfficeMax</name>
+      </company>
+      <job-poster>
+        <id>n8P9jW9A9N</id>
+        <first-name>Amey</first-name>
+        <last-name>Kennedy</last-name>
+        <headline>Sr. Talent Acquisition Business Partner</headline>
+      </job-poster>
+      <description-snippet>The Director, Field Training works closely with executive management and senior business leaders to create a comprehensive learning strategy which ensures the effective technical and leadership development of talent within the company, toward the goal of achieving company and business specific priorities and initiatives.  This role is responsible for directing the design, development, delivery and</description-snippet>
+      <location-description>Naperville, IL</location-description>
+    </job>
+    <job>
+      <id>5031242</id>
+      <company>
+        <id>574962</id>
+        <name>Flexera Software</name>
+      </company>
+      <job-poster>
+        <id>private</id>
+        <first-name>private</first-name>
+        <last-name>private</last-name>
+      </job-poster>
+      <description-snippet>The Senior Recruiter will play a critical role in ensuring that we hire the best possible talent, that there is a continuous pipeline of strong candidates for key positions, and that cost per hire is effectively controlled. This individual will perform full lifecycle recruiting and will maintain excellent relations with internal clients, candidates, business partners and the community at-large.   </description-snippet>
+      <location-description>Schaumburg</location-description>
+    </job>
+    <job>
+      <id>4570154</id>
+      <company>
+        <id>594172</id>
+        <name>Power Home Remodeling Group</name>
+      </company>
+      <job-poster>
+        <id>WDOEJsYKIa</id>
+        <first-name>Vincent</first-name>
+        <last-name>D.</last-name>
+        <headline>Director of Talent Acquisition at Power Home Remodeling Group</headline>
+      </job-poster>
+      <description-snippet>Thank you for your interest in a career at Power.  &quot;Once you have the interview, you know.&quot; That's what most of our employees say when asked why they initially decided to start a career at Power. Why? We're just different. We're 1,200 personalities from all walks of life who actually love what we do, respect the people we work with, and want to see each other succeed. And because all of these peop</description-snippet>
+      <location-description>Rosemont IL</location-description>
+    </job>
+    <job>
+      <id>4570153</id>
+      <company>
+        <id>594172</id>
+        <name>Power Home Remodeling Group</name>
+      </company>
+      <job-poster>
+        <id>WDOEJsYKIa</id>
+        <first-name>Vincent</first-name>
+        <last-name>D.</last-name>
+        <headline>Director of Talent Acquisition at Power Home Remodeling Group</headline>
+      </job-poster>
+      <description-snippet>Thank you for your interest in a career at Power.  &quot;Once you have the interview, you know.&quot; That's what most of our employees say when asked why they initially decided to start a career at Power. Why? We're just different. We're 1,200 personalities from all walks of life who actually love what we do, respect the people we work with, and want to see each other succeed. And because all of these peop</description-snippet>
+      <location-description>Chicago IL</location-description>
+    </job>
+    <job>
+      <id>5007186</id>
+      <company>
+        <name>College of Lake County</name>
+      </company>
+      <job-poster>
+        <id>D8pWIWtd1C</id>
+        <first-name>JD</first-name>
+        <last-name>C.</last-name>
+        <headline>Manager at JobTarget</headline>
+      </job-poster>
+      <description-snippet>The International Trade Specialist, under the supervision of the Director, IL Small Business Development Center/International Trade Center, plans, develops and markets international trade opportunities to Lake County Business leaders. As an international trade subject matter expert, must be able to meet and advise business leaders and CEO's on all aspects of global trade to grow their business.   </description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>5006522</id>
+      <company>
+        <id>13636</id>
+        <name>City Colleges of Chicago</name>
+      </company>
+      <salary>Competitive with Excellent Benefits</salary>
+      <job-poster>
+        <id>OFFJlgcd7G</id>
+        <first-name>Tonia</first-name>
+        <last-name>A.</last-name>
+        <headline>Specializing in Sourcing, Recruiting and Retention.</headline>
+      </job-poster>
+      <description-snippet>Do you enjoy working for an institution that fosters collaboration to promote student success, where employees are recognized as an important asset and where you can make a difference? Then City Colleges of Chicago (CCC) is looking for you!   This position is responsible for leading the City Colleges of Chicago district-wide staffing and recruiting strategies, technology, processes and people in o</description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>4976037</id>
+      <company>
+        <name>Fermi National Accelerator Laboratory (&quot;Fermilab&quot;)</name>
+      </company>
+      <salary>Competitive + Full Fringe Benefits</salary>
+      <job-poster>
+        <id>V1WKhYxLIa</id>
+        <first-name>Shelley A</first-name>
+        <last-name>K.</last-name>
+        <headline>Technical Recruiter, Engineering Speciality at Fermi National Accelerator Laboratory</headline>
+      </job-poster>
+      <description-snippet>Description Under general supervision, plan, organize, schedule, and lead the design, maintenance, construction, renovation, repair, management, integration, operation, safety, and security of the data centers and acts as an internal consultant providing expert technical guidance on complex projects for the Computing Sector's facilities. Monitor the environment and facility infrastructure systems </description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>4973678</id>
+      <company>
+        <id>37564</id>
+        <name>Johnson Service Group, Inc</name>
+      </company>
+      <salary>$58,000 - $65,000</salary>
+      <job-poster>
+        <id>YvODdCpfOm</id>
+        <first-name>Jim</first-name>
+        <last-name>Halvorson (LION)</last-name>
+        <headline>Senior Technical Recruiter at Johnson Service Group, Inc</headline>
+      </job-poster>
+      <description-snippet>Johnson Service Group is seeking a Production Supervisor for a client in South Chicago.  This is a permanent , direct-hire position either on 2nd shift or 3rd shift.   Day-to-day, this person will spend 80% of their time on the production floor.  They will be looking for process improvements, troubleshooting production problems/issues, and training/ developing staff. Enforce safety and sanitation </description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>4963142</id>
+      <company>
+        <id>105556</id>
+        <name>North Bridge Staffing Group</name>
+      </company>
+      <salary>Temp-to-Hire, up to $65,000</salary>
+      <job-poster>
+        <id>URj1kRp_jJ</id>
+        <first-name>Allison</first-name>
+        <last-name>S.</last-name>
+        <headline>Director of Recruiting at North Bridge Staffing Group</headline>
+      </job-poster>
+      <description-snippet>The Senior Billing Analyst is responsible for handling a variety of sophisticated billing processes including preparing detailed client bills, split billing requests, e-billing, and billing distribution. This position requires excellent time management skills and precision to detail in order to meet many time sensitive billing requests. Strong communication skills are necessary in order to work wi</description-snippet>
+      <location-description>Chicago, IL</location-description>
+    </job>
+    <job>
+      <id>4958501</id>
+      <company>
+        <id>1629</id>
+        <name>Owens &amp; Minor</name>
+      </company>
+      <job-poster>
+        <id>private</id>
+        <first-name>private</first-name>
+        <last-name>private</last-name>
+      </job-poster>
+      <description-snippet>JOB SUMMARY: Responsible for leading and executing field sales activities for all OMSolutions products and services to customers within a specific geographic market and account value. Teams with Vice President, Supply Chain Performance in the management and support of high-value accounts. Creates and fosters relationships with the management of healthcare provider organizations. Assesses customers</description-snippet>
+      <location-description>Hanover Park, IL, US</location-description>
+    </job>
+    <job>
+      <id>4942234</id>
+      <company>
+        <id>1052</id>
+        <name>AT&amp;T</name>
+      </company>
+      <job-poster>
+        <id>nXCN0EuR-u</id>
+        <first-name>Abigail</first-name>
+        <last-name>M.</last-name>
+        <headline>Talent Attraction Manager at AT&amp;T</headline>
+      </job-poster>
+      <description-snippet>This position will be required to lead a team of professionals to develop and deliver comprehensive vertical marketing programs for the GES (SCG, PCG, GCG) sales organizations. Responsible for leading specific vertical markets (i.e., Retail, Restaurants and CPG) to drive growth and market awareness of our understanding and solutions for these vertical industries. Develops new go to market programs</description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>4928540</id>
+      <company>
+        <id>163142</id>
+        <name>Cole Taylor Bank</name>
+      </company>
+      <job-poster>
+        <id>Ko4Km7kuB3</id>
+        <first-name>Sandra</first-name>
+        <last-name>J.</last-name>
+        <headline>Sr. Talent Acquisition &amp; Performance Management Coordinator at Cole Taylor Bank</headline>
+      </job-poster>
+      <description-snippet>Job Summary: Ensures performance and availability of organization's systems on a daily basis.  Proactively identifies and implements innovation and efficiency opportunities that support business needs. The level of work is considered associate and staff work under moderate supervision.  This position has no direct reports and some use of analysis and decision making to resolve complex, often uniqu</description-snippet>
+      <location-description>Rosemont, IL</location-description>
+    </job>
+    <job>
+      <id>4810374</id>
+      <company>
+        <id>14255</id>
+        <name>DSC Logistics</name>
+      </company>
+      <job-poster>
+        <id>wwkgFj-rmC</id>
+        <first-name>Luci</first-name>
+        <last-name>S.</last-name>
+        <headline>Talent Acquisition Consultant</headline>
+      </job-poster>
+      <description-snippet>We currently have an opportunity for a Director of Business Intelligence and On-Line Services in our corporate office in Des Plaines, IL.  DSC is making a strategic investment in a full Business Intelligence platform as well as expanding its online presence for internal and external constituents. This position will have responsibility for both the full BI environment from ETL through the end-user </description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>4895525</id>
+      <company>
+        <name>Advocate Good Samaritan Hospital</name>
+      </company>
+      <job-poster>
+        <id>dSP2yDuwpx</id>
+        <first-name>Nancy</first-name>
+        <last-name>J.</last-name>
+        <headline>Talent Acquistion Specialist at Advocate Health Care</headline>
+      </job-poster>
+      <description-snippet>� BSN Required � Current Illinois RN license � Current CPR � 1+ yrs of relevant experience: Must poses a passion for working in Oncology. � Earn 10.0 continuing education credits annually � Good communication skills � Computer skills � Good time management and organizational skills � Familiarity with patient care equipment � Ability to work weekends, holidays, and different shifts in order to acco</description-snippet>
+      <location-description>Downers  Grove, Il</location-description>
+    </job>
+    <job>
+      <id>4882775</id>
+      <company>
+        <id>13608</id>
+        <name>Natural Resources Defense Council</name>
+      </company>
+      <job-poster>
+        <id>EWymOjGFwj</id>
+        <first-name>Angeliki</first-name>
+        <last-name>E.</last-name>
+        <headline>Human Resources Manager at Natural Resources Defense Council</headline>
+      </job-poster>
+      <description-snippet>We seek an Attorney to investigate and litigate complex, innovative cases to protect public health and the environment, on behalf of and in collaboration with both NRDC and outside clients. The Attorney will be a member of the new Chicago branch of NRDC’s Litigation Team; the Team consists of approximately a dozen full-time litigators and four legal assistants who work out of NRDC’s New York, Wash</description-snippet>
+      <location-description>Chicago, IL</location-description>
+    </job>
+    <job>
+      <id>4873696</id>
+      <company>
+        <id>14336</id>
+        <name>Staff Management</name>
+      </company>
+      <job-poster>
+        <id>zqObpchR_t</id>
+        <first-name>Staff</first-name>
+        <last-name>M.</last-name>
+        <headline>Various at Staff Management</headline>
+      </job-poster>
+      <description-snippet>SeatonCorp, the parent company of Staff Management and one of the fastest growing staffing organizations in the country, has an opening for a Senior Java/J2EE Developer in Chicago, IL.  This position is for a highly motivated Senior Java/J2EE Developer.   The candidate must be able to translate a Use Case into a well designed, implemented and tested set of code using Java, Stateless Session Beans </description-snippet>
+      <location-description>Chicago</location-description>
+    </job>
+    <job>
+      <id>4863616</id>
+      <company>
+        <id>710687</id>
+        <name>CompuSystems</name>
+      </company>
+      <salary>Commensurate with experience</salary>
+      <job-poster>
+        <id>onB9fvOsbv</id>
+        <first-name>Ed</first-name>
+        <last-name>S.</last-name>
+        <headline>Human Resources Manager at CompuSystems</headline>
+      </job-poster>
+      <description-snippet>You will be responsible for creating design concepts from scratch, handling a wide variety of marketing production work, working with outside vendors, administrative duties, and other duties as assigned.   Essential Duties and Responsibilities:  · Development of design concepts from scratch including but not limited to print ads, company collateral, whitepapers, logos, banner ads, icons, email mar</description-snippet>
+      <location-description>Broadview</location-description>
+    </job>
+    <job>
+      <id>4863372</id>
+      <company>
+        <id>3475</id>
+        <name>Lafarge</name>
+      </company>
+      <job-poster>
+        <id>QHJacttJgv</id>
+        <first-name>Shannon</first-name>
+        <last-name>A.</last-name>
+        <headline>Lafarge North America</headline>
+      </job-poster>
+      <description-snippet>The HME / Contract Specialist will have direct accountability for the financial and operation metrics of the US Aggregates Mobile Equipment Fleet.  The HME / Contract Specialist will manage all assets to ensure they are fully maintained, utilized and optimized and will serve as a technical resource for the Plant Managers and Operations Managers across the US.  The HME / Contract Specialist will ha</description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+    <job>
+      <id>4863361</id>
+      <company>
+        <id>3475</id>
+        <name>Lafarge</name>
+      </company>
+      <job-poster>
+        <id>QHJacttJgv</id>
+        <first-name>Shannon</first-name>
+        <last-name>A.</last-name>
+        <headline>Lafarge North America</headline>
+      </job-poster>
+      <description-snippet>Objective: The Performance Manager will have direct accountability for the financial and operational performance of the US Aggregates plants.  The Performance Manager ensures that each plant is optimized from a cost and performance metric standpoint and is responsible for identification of Best Practices, maximizing KPI’s (Key Performance Indicators), PER (Performance Efficiency Reviews), Action P</description-snippet>
+      <location-description>Greater Chicago Area</location-description>
+    </job>
+  </jobs>
+  <num-results>3942</num-results>
+  <facets total="1">
+    <facet>
+      <code>company</code>
+      <name>Company</name>
+      <buckets total="11">
+        <bucket>
+          <code>3486</code>
+          <name>Hays</name>
+          <count>249</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>11776</code>
+          <name>INC Research</name>
+          <count>188</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>3739</code>
+          <name>CH2M HILL</name>
+          <count>173</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1035</code>
+          <name>Microsoft</name>
+          <count>67</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>602282</code>
+          <name>Sterling Life Sciences</name>
+          <count>63</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>15220</code>
+          <name>CDI AndersElite</name>
+          <count>49</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1666</code>
+          <name>Intuit</name>
+          <count>47</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1052</code>
+          <name>AT&amp;T</name>
+          <count>44</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>21836</code>
+          <name>CyberCoders</name>
+          <count>40</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>2988</code>
+          <name>VMware</name>
+          <count>35</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>166185</code>
+          <name>SuccessFactors</name>
+          <count>32</count>
+          <selected>false</selected>
+        </bucket>
+      </buckets>
+    </facet>
+  </facets>
+</job-search>

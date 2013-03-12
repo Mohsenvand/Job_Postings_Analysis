@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job-search>
+  <jobs total="7">
+    <job>
+      <id>5045221</id>
+      <company>
+        <id>1502536</id>
+        <name>Goodwill Industries of Middle Georgia and the CSRA</name>
+      </company>
+      <job-poster>
+        <id>584xxiBQZf</id>
+        <first-name>Traci</first-name>
+        <last-name>H.</last-name>
+        <headline>Human Resources at Goodwill Industries of Middle GA and the CSRA</headline>
+      </job-poster>
+      <description-snippet>New and exciting upscale event venue is seeking a Catering Sales Manager to promote and secure sales of meeting space in Augusta, GA.  The successful candidate will book space, negotiate contracts, and work hand in hand with Director of Catering Sales and Chef on all events and logistics associated with the event.  A competitive salary and benefit package is included. </description-snippet>
+      <location-description>Augusta, Georgia Area</location-description>
+    </job>
+    <job>
+      <id>4906288</id>
+      <company>
+        <id>3486</id>
+        <name>Hays</name>
+      </company>
+      <salary>£130k</salary>
+      <job-poster>
+        <id>UjU2ykectz</id>
+        <first-name>Chris</first-name>
+        <last-name>D.</last-name>
+        <headline>Business Director for Transformational Leadership Practice</headline>
+      </job-poster>
+      <description-snippet>My international client is looking for a Director of Operations to be responsible for the operational delivery of international events.  The role requires the overall management of the catering, technical &amp;amp; operations and fulfilment departments as well as the oversight of the relationships with the general external contractors engaged to deliver services in these areas.   Job Description   -  </description-snippet>
+      <location-description>UK / Brazil</location-description>
+    </job>
+    <job>
+      <id>5053615</id>
+      <company>
+        <id>326528</id>
+        <name>Hyatt Regency Bethesda</name>
+      </company>
+      <job-poster>
+        <id>_QVXFNVymn</id>
+        <first-name>Devon</first-name>
+        <last-name>P.</last-name>
+        <headline>HR Manager at Hyatt Regency Bethesda</headline>
+      </job-poster>
+      <description-snippet>Responsible for selling the hotel. Primary sales efforts are in Banquet Food, Beverage and Meeting Room Rental. This includes menu planning and agenda setting. Must be able to communicate the services of the hotel to gain commitment from the customer. Provides guidance to Catering Managers and Trainees. Handles key accounts for the hotel, thus carrying the highest quota in the department.</description-snippet>
+      <location-description>Washington D.C. Metro Area</location-description>
+    </job>
+    <job>
+      <id>5044030</id>
+      <company>
+        <id>326528</id>
+        <name>Hyatt Regency Bethesda</name>
+      </company>
+      <job-poster>
+        <id>_QVXFNVymn</id>
+        <first-name>Devon</first-name>
+        <last-name>P.</last-name>
+        <headline>HR Manager at Hyatt Regency Bethesda</headline>
+      </job-poster>
+      <description-snippet>At Hyatt, we believe our guests select Hyatt because of our caring and attentive associates who are focused on providing efficient service and meaningful experiences.     The Sales Manager is a fully competent individual who has experience in the sales process and function of a hotel. Responsibilities include selling guest rooms, meeting space and other Hyatt services to customer groups, managing </description-snippet>
+      <location-description>Washington D.C. Metro Area</location-description>
+    </job>
+    <job>
+      <id>4961006</id>
+      <company>
+        <name>Compass Group USA</name>
+      </company>
+      <job-poster>
+        <id>GD6rXpAh2P</id>
+        <first-name>David</first-name>
+        <last-name>Z.</last-name>
+        <headline>Technologist at Enigma Associates</headline>
+      </job-poster>
+      <description-snippet>A Fresh Approach to Great Results.Charlotte-based Compass Group North America is the leader in foodservice management and support services. By combining fresh ideas with the industry's greatest talent, we continue to set the standards for food and service excellence. Our vision for success is a powerful one - to continue to rise above the competition in every aspect of our business - from leading-</description-snippet>
+      <location-description>US -California- San Diego</location-description>
+    </job>
+    <job>
+      <id>4953415</id>
+      <company>
+        <id>2311</id>
+        <name>Marriott International</name>
+      </company>
+      <job-poster>
+        <id>WkatmADaJV</id>
+        <first-name>Christopher</first-name>
+        <last-name>R.</last-name>
+        <headline>Sales Management Sourcing Specialist at Aon Hewitt in Partnership with Marriott International</headline>
+      </job-poster>
+      <description-snippet>It’s a powerful feeling, to belong. It’s inspiring people to do more than they thought they could. It’s leading the way by rolling up your sleeves to accomplish a common goal. It’s taking a passion and turning it into your vision. Belonging is what it feels like to work at Marriott. If this sounds like the place for you, join us.   Marriott International is currently hiring for a MARKETING MANAGER</description-snippet>
+      <location-description>San Francisco, CA</location-description>
+    </job>
+    <job>
+      <id>4866348</id>
+      <company>
+        <id>10122</id>
+        <name>Grafton Recruitment</name>
+      </company>
+      <job-poster>
+        <id>f7YlneJmke</id>
+        <first-name>Justyna</first-name>
+        <last-name>G.</last-name>
+        <headline>Junior Research Consultant  at Grafton Recruitment</headline>
+      </job-poster>
+      <description-snippet>For our client the complete storage system provider for engineering and manufacturing professionals in thousands of different industries and applications throughout the world we are looking for Regional Sales ManagerPosition Responsibilities: Find, evaluate, recruit, train and manage independent sales channels from within the territory. Plan, organize and implement sales strategies for the Countri</description-snippet>
+      <location-description>Poland - Waszawa</location-description>
+    </job>
+  </jobs>
+  <num-results>7</num-results>
+  <facets total="1">
+    <facet>
+      <code>company</code>
+      <name>Company</name>
+      <buckets total="5">
+        <bucket>
+          <code>326528</code>
+          <name>Hyatt Regency Bethesda</name>
+          <count>2</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>2311</code>
+          <name>Marriott International</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>3486</code>
+          <name>Hays</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>10122</code>
+          <name>Grafton Recruitment</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1502536</code>
+          <name>Goodwill Industries of Middle Georgia and the CSRA</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+      </buckets>
+    </facet>
+  </facets>
+</job-search>

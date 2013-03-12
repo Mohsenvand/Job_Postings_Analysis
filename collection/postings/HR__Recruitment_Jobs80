@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job-search>
+  <jobs total="84" count="4" start="80">
+    <job>
+      <id>4938958</id>
+      <company>
+        <id>38349</id>
+        <name>vcfo</name>
+      </company>
+      <job-poster>
+        <id>QaCjNweJxY</id>
+        <first-name>Azure</first-name>
+        <last-name>A.</last-name>
+        <headline>Recruiter Coordinator at vcfo:  aarenson@vcfo.com</headline>
+      </job-poster>
+      <description-snippet>Overview   vcfo is growing! We are hiring immediately for a Chief Financial Officer who will work as a senior level consultant with vcfo’s outstanding clients. This Chief Financial Officer (CFO) will focus a great deal on business development, as well as represent vcfo in the Austin and Central Texas Community. We have an amazing team of consultants and experts that this person would be joining. T</description-snippet>
+      <location-description>Austin, TX</location-description>
+    </job>
+    <job>
+      <id>4915646</id>
+      <company>
+        <id>26205</id>
+        <name>American Fidelity</name>
+      </company>
+      <job-poster>
+        <id>o2mbZfTywu</id>
+        <first-name>Kim</first-name>
+        <last-name>B.</last-name>
+        <headline>Sr. Talent Management Specialist at American Fidelity Assurance</headline>
+      </job-poster>
+      <description-snippet>*Processes annual assessments/reviews for home office Colleagues which includes reviewing every assessment for thoroughness and appropriate content.  Links content to career development and performance management.    *Counsel managers and Colleagues on various issues relating to all aspects of company policy and HR law to include performance issues, coaching, discipline, etc.; and assist and work </description-snippet>
+      <location-description>Oklahoma City, Oklahoma Area</location-description>
+    </job>
+    <job>
+      <id>4883959</id>
+      <company>
+        <id>4781</id>
+        <name>Warner Music Group</name>
+      </company>
+      <job-poster>
+        <id>YBmm0q4y6R</id>
+        <first-name>Patricia</first-name>
+        <last-name>G.</last-name>
+        <headline>Director, Talent Acquisition Management at Warner Music Group</headline>
+      </job-poster>
+      <description-snippet>With its broad roster of new stars and legendary artists, Warner Music Group is home to a collection of the best-known record labels in the music industry including Asylum, Atlantic, Cordless, East West, Elektra, Nonesuch, Reprise, Rhino, Roadrunner, Rykodisc, Sire, Warner Bros. and Word, as well as Warner/Chappell Music, one of the world's leading music publishers, with a catalog of more than one</description-snippet>
+      <location-description>75 Rockefeller Plaza, New York NY</location-description>
+    </job>
+    <job>
+      <id>4850432</id>
+      <company>
+        <name>Oxygen Pur</name>
+      </company>
+      <salary>Commission + bonuses</salary>
+      <job-poster>
+        <id>GczIsKKZA8</id>
+        <first-name>Gerry</first-name>
+        <last-name>M.</last-name>
+        <headline>President &amp; CEO at Oxygen Pur</headline>
+      </job-poster>
+      <description-snippet>INDEPENDENT TECHNICAL SALES PROFESSIONALS   OXYGEN PUR® is seeking commissioned, Independent Sales Professionals, in NY, MA, CA, AZ, NV, FL, TX, and IL, as well, Vancouver Canada.   OXYGEN PUR® has created an exceptional opportunity for seasoned B2B sales professionals who have a proven track record of success selling to the Spa, Aesthetic, Salon, Medi-Spa, Dermatology, Post Procedure, and Non-inv</description-snippet>
+      <location-description>Greater Los Angeles Area</location-description>
+    </job>
+  </jobs>
+  <num-results>84</num-results>
+  <facets total="1">
+    <facet>
+      <code>company</code>
+      <name>Company</name>
+      <buckets total="11">
+        <bucket>
+          <code>2319</code>
+          <name>CBRE</name>
+          <count>3</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>11776</code>
+          <name>INC Research</name>
+          <count>3</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>38349</code>
+          <name>vcfo</name>
+          <count>3</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1227676</code>
+          <name>Work4 Labs</name>
+          <count>3</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>3503</code>
+          <name>LG Electronics</name>
+          <count>2</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>4781</code>
+          <name>Warner Music Group</name>
+          <count>2</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>6044</code>
+          <name>Yoh, A Day &amp; Zimmermann Company</name>
+          <count>2</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1009</code>
+          <name>IBM</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1497</code>
+          <name>AMD</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1828</code>
+          <name>NBCUniversal, Inc.</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+        <bucket>
+          <code>1935</code>
+          <name>PTC</name>
+          <count>1</count>
+          <selected>false</selected>
+        </bucket>
+      </buckets>
+    </facet>
+  </facets>
+</job-search>
